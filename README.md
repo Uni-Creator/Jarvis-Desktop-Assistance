@@ -1,4 +1,3 @@
-```markdown
 # Jarvis - Personal Desktop Assistant
 
 A powerful desktop assistant built in Python with voice and GUI-based interactions. Jarvis integrates web search, system automation, multimedia control, and more.
