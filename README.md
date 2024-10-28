@@ -124,4 +124,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, please feel free to reach out to the project maintainer at [abhayr245654@gmail.com].
+For any questions or inquiries, please feel free to reach out to the project maintainer at [abhayr245654@gmail.com].Here’s a refined version of that note:
+
+"There are many functionalities that `jarvis.py` is designed to handle, though not all of them are fully implemented yet. For reference, you can explore the `functions` directory to review the code for additional features. Feel free to integrate these capabilities into the main codebase. Thank you!"
