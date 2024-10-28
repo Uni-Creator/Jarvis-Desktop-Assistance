@@ -1,0 +1,79 @@
+cmake.exe : C:\cmake\bin\cmake.exe
+xampp.exe : C:\xampp\xampp-control.exe
+cmd.exe : C:\Windows\System32\cmd.exe
+Qt Designer : C:\Program Files (x86)\Qt Designer\designer.exe
+python.exe : C:\Users\Anupam\AppData\Local\Programs\Python\Python310\python.exe
+git-bash.exe : c:\Program Files\Git\git-bash.exe
+iexplore.exe : c:\Program Files\Internet Explorer\iexplore.exe
+PCHealthCheck.exe : c:\Program Files\PCHealthCheck\PCHealthCheck.exe
+sqlite3.exe : c:\Program Files\Softland\novaPDF 10\Driver\sqlite3.exe
+Startup.exe : c:\Program Files\Softland\novaPDF 10\Driver\Startup.exe
+OutlookEmail.exe : c:\Program Files\Softland\novaPDF 10\Editor\OutlookEmail.exe
+vlc.exe : c:\Program Files\VideoLAN\VLC\vlc.exe
+OfflineScannerShell.exe : c:\Program Files\Windows Defender\Offline\OfflineScannerShell.exe
+wmlaunch.exe : c:\Program Files\Windows Media Player\wmlaunch.exe
+wordpad.exe : c:\Program Files\Windows NT\Accessories\wordpad.exe
+WinRAR.exe : c:\Program Files\WinRAR\WinRAR.exe
+chrome.exe : c:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+msedge.exe : c:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+TeamViewer.exe : c:\Program Files (x86)\TeamViewer\TeamViewer.exe
+OneDrive.exe : c:\Users\Anupam\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+Code.exe : c:\Users\Anupam\AppData\Local\Programs\Microsoft VS Code\Code.exe
+Google Chrome.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\\Google Chrome.lnk
+Immersive Control Panel.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\\Immersive Control Panel.lnk
+Microsoft Edge.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\\Microsoft Edge.lnk
+PC Health Check.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\\PC Health Check.lnk
+TeamViewer.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\\TeamViewer.lnk
+Speech Recognition.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility\Speech Recognition.lnk
+Math Input Panel.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk
+Notepad.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad.lnk
+Paint.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk
+Quick Assist.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Quick Assist.lnk
+Remote Desktop Connection.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk
+Snipping Tool.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Snipping Tool.lnk
+Steps Recorder.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk
+Windows Fax and Scan.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Fax and Scan.lnk
+Windows Media Player.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+Wordpad.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk
+Character Map.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk
+Component Services.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk
+Computer Management.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk
+Disk Cleanup.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Disk Cleanup.lnk
+Event Viewer.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk
+iSCSI Initiator.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk
+Memory Diagnostics Tool.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk
+ODBC Data Sources (32-bit).lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+ODBC Data Sources (64-bit).lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (64-bit).lnk
+Performance Monitor.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk
+RecoveryDrive.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\RecoveryDrive.lnk
+Registry Editor.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Registry Editor.lnk
+Resource Monitor.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk
+services.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk
+System Configuration.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk
+System Information.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Information.lnk
+Task Scheduler.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk
+Windows Defender Firewall with Advanced Security.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Defender Firewall with Advanced Security.lnk
+doPDF 10 Getting Started.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\doPDF 10\doPDF 10 Getting Started.lnk
+doPDF 10 Help.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\doPDF 10\doPDF 10 Help.lnk
+Git Bash.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Bash.lnk
+Git GUI.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git GUI.lnk
+Microsoft Office Access 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Access 2007.lnk
+Microsoft Office Excel 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Excel 2007.lnk
+Microsoft Office Groove 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Groove 2007.lnk
+Microsoft Office InfoPath 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office InfoPath 2007.lnk
+Microsoft Office OneNote 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office OneNote 2007.lnk
+Microsoft Office Outlook 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Outlook 2007.lnk
+Microsoft Office PowerPoint 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office PowerPoint 2007.lnk
+Microsoft Office Publisher 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Publisher 2007.lnk
+Microsoft Office Word 2007.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Word 2007.lnk
+Microsoft Clip Organizer.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Tools\Microsoft Clip Organizer.lnk
+Microsoft Office 2007 Language Settings.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Tools\Microsoft Office 2007 Language Settings.lnk
+Microsoft Office Diagnostics.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Tools\Microsoft Office Diagnostics.lnk
+Microsoft Office Picture Manager.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Office Tools\Microsoft Office Picture Manager.lnk
+Task Manager.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Task Manager.lnk
+VLC media player.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VLC media player.lnk
+Windows PowerShell ISE (x86).lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE (x86).lnk
+Windows PowerShell ISE.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE.lnk
+WinRAR.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk
+XAMPP Control Panel.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XAMPP\XAMPP Control Panel.lnk
+Uninstall XAMPP.lnk : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XAMPP\Uninstall XAMPP.lnk
