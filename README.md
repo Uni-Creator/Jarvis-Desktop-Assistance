@@ -120,4 +120,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or inquiries, please feel free to reach out to the project maintainer at [abhayr245654@gmail.com].
-```
