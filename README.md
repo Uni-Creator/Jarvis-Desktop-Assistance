@@ -44,8 +44,13 @@ The Jarvis project is structured with separate modules for key functionalities, 
 
 4. **Run the Assistant:**
    ```bash
+   python jarvis.py
+   ```
+   or
+   ```bash
    python testChatUI.py
    ```
+   
 
 ## Usage
 
