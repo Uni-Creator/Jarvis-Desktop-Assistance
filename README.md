@@ -1,4 +1,5 @@
 # Jarvis - Personal Desktop Assistant
+![GitHub Repo stars](https://img.shields.io/github/stars/Uni-Creator/Jarvis-Desktop-Assistance?style=social)  ![GitHub forks](https://img.shields.io/github/forks/Uni-Creator/Jarvis-Desktop-Assistance?style=social)
 
 A powerful desktop assistant built in Python with voice and GUI-based interactions. Jarvis integrates web search, system automation, multimedia control, and more.
 
